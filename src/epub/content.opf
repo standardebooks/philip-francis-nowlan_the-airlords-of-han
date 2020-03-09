@@ -44,7 +44,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/25438</dc:source>
 		<meta property="se:word-count">30060</meta>
-		<meta property="se:reading-ease.flesch">55.17</meta>
+		<meta property="se:reading-ease.flesch">55.07</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/philip-francis-nowlan_the-airlords-of-han</meta>
 		<dc:creator id="author">Philip Francis Nowlan</dc:creator>
 		<meta property="file-as" refines="#author">Nowlan, Philip Francis</meta>
