@@ -6,11 +6,6 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 abbr.era{
 	font-variant: small-caps;
 }
