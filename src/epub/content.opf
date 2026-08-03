@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han</dc:identifier>
 		<dc:date>2018-11-29T22:27:25Z</dc:date>
@@ -37,11 +37,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85145220</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:description id="description">Science fiction hero Buck Rogers continues his crusade against the evil Han empire.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Science fiction hero Buck Rogers continues his crusade against the evil Han empire.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Airlords of Han&lt;/i&gt;, the sequel to &lt;a href="https://standardebooks.org/ebooks/philip-francis-nowlan/armageddon-2419-a-d"&gt;&lt;i&gt;Armageddon 2419 &lt;abbr&gt;A.D.&lt;/abbr&gt;&lt;/i&gt;&lt;/a&gt;, continues the adventures of Buck Rogers, the famous sci-fi adventure hero of early comics and radio shows. Originally published in &lt;i&gt;Amazing Stories&lt;/i&gt; in 1929, in the 1960s this novella was later combined with &lt;a href="https://standardebooks.org/ebooks/philip-francis-nowlan"&gt;Nowlan’s&lt;/a&gt; original piece and re-published under the title &lt;i&gt;Armageddon 2419 &lt;abbr&gt;A.D.&lt;/abbr&gt;&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;In it Buck Rogers and his wife, Wilma Deering, lead Americans in a conclusive battle with the evil Han Empire. The story reflects the “Yellow Peril” mindset at the time of its writing, and successfully predicts many future technologies, including bazookas, night-vision devices, and paratroopers.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/25438</dc:source>
 		<dc:source>https://archive.org/details/Amazing_Stories_v03n12_1929-03_ATLPM-Urf</dc:source>
